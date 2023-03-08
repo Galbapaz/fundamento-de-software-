@@ -1,2 +1,1 @@
-# fundamento-de-software-
-gdfgfdgfdgdfgdfgfggfffgghfg
+# repositorio para aprender a manejar github 
